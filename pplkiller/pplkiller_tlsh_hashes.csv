@@ -1,2 +1,2 @@
-Repo Name,File Name,Release Version,TLSH Hash,SHA256 Hash,Imphash,Date Added,Intel
-pplkiller,PPLKiller.exe,f530dd2,T1DC037D8297D90966F6B69B38CAF18537EC727C516F3AD28F0550811D0F71BC2E63871A,b1a929b79ea51d12f9963c0dc66bf72a41dd57f3b6730012c084705aa16251dd,22a22bc9e4e0d2f189f1ea01748816ac,2025-05-25T23:09:43Z,https://github.com/RedCursorSecurityConsulting/PPLKiller
+Repo Name,File Name,File Type,Release Version,TLSH Hash,Commit_Distance,SHA256 Hash,Imphash,Date Added,Intel
+pplkiller,PPLKiller.exe,N/A,f530dd2,T1DC037D8297D90966F6B69B38CAF18537EC727C516F3AD28F0550811D0F71BC2E63871A,0,b1a929b79ea51d12f9963c0dc66bf72a41dd57f3b6730012c084705aa16251dd,22a22bc9e4e0d2f189f1ea01748816ac,2025-05-25T23:09:43Z,https://github.com/RedCursorSecurityConsulting/PPLKiller
