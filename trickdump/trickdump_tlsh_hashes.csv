@@ -1,2 +1,2 @@
-Repo Name,File Name,Release Version,TLSH Hash,SHA256 Hash,Imphash,Date Added,Intel
-trickdump,Trick.exe,a11f915,T19CA2F748B3E90125F6FF0B756C7257004B75B8479933DB0E05CA91AA5F73B949E223E2,eeb82e150547eeee5766f3ab307091ab1c99466b732141fdb98f907647304a1e,,2025-05-25T23:09:50Z,https://github.com/ricardojoserf/TrickDump
+Repo Name,File Name,File Type,Release Version,TLSH Hash,Commit_Distance,SHA256 Hash,Imphash,Date Added,Intel
+trickdump,Trick.exe,N/A,a11f915,T19CA2F748B3E90125F6FF0B756C7257004B75B8479933DB0E05CA91AA5F73B949E223E2,0,eeb82e150547eeee5766f3ab307091ab1c99466b732141fdb98f907647304a1e,,2025-05-25T23:09:50Z,https://github.com/ricardojoserf/TrickDump
