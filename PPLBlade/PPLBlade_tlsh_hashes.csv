@@ -1,2 +1,2 @@
-Repo Name,File Name,File Type,Release Version,TLSH Hash,Commit_Distance,SHA256 Hash,Imphash,Date Added,Intel
-tastypepperoni/PPLBlade,PPLBlade.exe,"PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows, 13 sections",v1.0,T1FF368C03FC5461A5C9E9D230C97A82927A717C880B3177D32B24FBBA2A737D45E79394,0,98f0679fd492a67af9288f2ef9ac8f99d808092364c7197e6409987590222a85,9cbefe68f395e67356e2a5d8d1b285c0,2023-08-30T06:41:02Z,https://github.com/tastypepperoni/PPLBlade
+Repo Name,File Name,File Type,Release Version,TLSH Hash,Commit_Distance,Lines Changed,SHA256 Hash,Imphash,Date Added,Intel
+tastypepperoni/PPLBlade,PPLBlade.exe,PE32+ executable (console) x86-64 (stripped to external PDB); for MS Windows; 13 sections,v1.0,T1FF368C03FC5461A5C9E9D230C97A82927A717C880B3177D32B24FBBA2A737D45E79394,0,N/A,98f0679fd492a67af9288f2ef9ac8f99d808092364c7197e6409987590222a85,9cbefe68f395e67356e2a5d8d1b285c0,2023-08-30T06:41:02Z,https://github.com/tastypepperoni/PPLBlade
