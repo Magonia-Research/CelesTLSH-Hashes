@@ -1,2 +1,3 @@
 Repo Name,File Name,File Type,Release Version,TLSH Hash,Commit_Distance,Lines Changed,SHA256 Hash,Imphash,Date Added,Intel
 nanodump,nanodump.x64.exe,PE32+ executable (console) x86-64; for MS Windows; 5 sections,450d5b2,T1ADA39246FBA721D8D8BAC0749152323BFA717C684334AB9F9B5486251F21AA1FD3DF04,0,N/A,7644bbfb2c045dd88761d5fc5a58770f762bb8b2e3d07b3e0f4720a52a642102,9137a5a63467b24b5927322f32e209c8,2025-09-06T07:12:35Z,https://github.com/fortra/nanodump
+nanodump,nanodump.x64.exe,PE32+ executable (console) x86-64; for MS Windows; 5 sections,450d5b2,T1ADA39246FBA721D8D8BAC0749152323BFA717C684334AB9F9B5486251F21AA1FD3DF04,0,N/A,7644bbfb2c045dd88761d5fc5a58770f762bb8b2e3d07b3e0f4720a52a642102,9137a5a63467b24b5927322f32e209c8,2025-09-07T05:05:38Z,https://github.com/fortra/nanodump
