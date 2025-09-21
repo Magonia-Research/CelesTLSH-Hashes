@@ -1,0 +1,2 @@
+Repo Name,File Name,File Type,Release Version,TLSH Hash,Commit_Distance,Lines Changed,SHA256 Hash,Imphash,Date Added,Intel
+TwoSevenOneT/EDR-Freeze,EDR-Freeze_1.0.exe,PE32+ executable (console) x86-64; for MS Windows; 6 sections,main,T1F1546D19F6A510F9E9A7863CC9424906EB72BC570761D7CF03A04A973F27AE09E3E711,0,N/A,970c7834e58b6ef22473875167a333dbb33bf7b667d1cb814829f68579cd85f7,,2025-09-21T01:57:11Z,https://github.com/TwoSevenOneT/EDR-Freeze
